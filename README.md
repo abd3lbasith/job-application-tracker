@@ -21,12 +21,5 @@ streamlit run app.py
 2. Go to https://share.streamlit.io
 3. New app → connect your repo → choose app.py → Deploy
 
-## Project structure
-job-application-tracker/
-├─ app.py # Streamlit app
-├─ db.py # SQLite helper
-├─ requirements.txt # dependencies
-└─ job_tracker.db # created automatically
-
 ## Example resume line
 Built a job application tracker with Streamlit and SQLite. Implemented CRUD features, CSV import/export, and a simple dashboard. Deployed to Streamlit Cloud.
