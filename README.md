@@ -1,6 +1,6 @@
 # 🗂️ Job Application Tracker (Streamlit)
 
-A super simple web app to track your job search. Perfect as a **first CS project** to show on your resume.
+A super simple web app to track your job search.
 
 ## ⭐ What you’ll learn / show on your resume
 - Build a small **web app** using **Python** + **Streamlit**
